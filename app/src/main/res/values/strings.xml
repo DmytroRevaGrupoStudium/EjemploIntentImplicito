@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EjemploIntentImplicito</string>
+    <string name="miBtn">Hacer Llamada</string>
+</resources>
